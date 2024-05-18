@@ -14,5 +14,6 @@ if __name__ == "__main__":
     w.setWindowIcon(QIcon("PYQT5/icon/icon1.jpg"))
 
     w.show()
-
+    
+    # 运行循环
     app.exec()
