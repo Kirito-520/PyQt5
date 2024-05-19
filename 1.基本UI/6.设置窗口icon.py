@@ -11,7 +11,7 @@ if __name__ == "__main__":
     w.setWindowTitle("This is my icon")
 
     # 设置图标
-    w.setWindowIcon(QIcon("PYQT5/icon/icon1.jpg"))
+    w.setWindowIcon(QIcon("pyqt5/icon/icon1.jpg"))
 
     w.show()
     
